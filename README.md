@@ -58,6 +58,7 @@ Aqui estão os comandos mais comuns usados durante o desenvolvimento:
 
 ```bash
 npx expo start           # Inicia o servidor de desenvolvimento
+npm run reset-project    #Reseta o projeto
 npx expo install pacote  # Instala um pacote compatível com o Expo
 npx expo doctor          # Verifica se há algum problema no ambiente
 npx expo upgrade         # Atualiza o projeto para a versão mais recente do Expo
